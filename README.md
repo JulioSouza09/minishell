@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by juliosouza09.*
+*This project has been created as part of the 42 curriculum by juliosouza09 and avieira-42.*
 
 # Minishell
 
@@ -140,11 +140,14 @@ This project intentionally follows **only the required specifications**.
 When behavior was ambiguous, **Bash** was used as the reference implementation.
 
 ---
-
 ## Author
-
 **Júlio César**
 42 Porto — Software Development
 - GitHub: [https://github.com/juliosouza09](https://github.com/juliosouza09)
 - LinkedIn: [https://linkedin.com/in/juliosouzadev](https://linkedin.com/in/juliosouzadev)
+
+**Alexandre Soeiro**
+42 Porto - Software Development
+- GitHub: [https://github.com/avieira-42](https://github.com/avieira-42)
+- LinkedIn: [https://linkedin.com/in/alexandre-soeiro-a6a57a197](https://linkedin.com/in/alexandre-soeiro-a6a57a197)
 
